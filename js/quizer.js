@@ -531,19 +531,22 @@ let en_2000_m = [
 			pack : EN_2000_M_PACK_1,
 			group : "Mika",
 			song : "Grace Kelly",
-			year : 2007
+			year : 2007,
+			ignore : true
 		},
 		{
 			pack : EN_2000_M_PACK_1,
 			group : "Mika",
 			song : "Relax, Take It Easy",
-			year : 2006
+			year : 2006,
+			ignore : true
 		},
 		{
 			pack : EN_2000_M_PACK_1,
 			group : "Mika",
 			song : "Love Today",
-			year : 2007
+			year : 2007,
+			ignore : true
 		},
 		{
 			pack : EN_2000_M_PACK_1,
