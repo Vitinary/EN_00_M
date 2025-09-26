@@ -358,19 +358,17 @@ let en_2000_m = [
 			pack : EN_2000_M_PACK_1,
 			group : 'Justin Bieber',
 			song : 'Baby',
-			year : 2010
+			ignore : true
 		},
 		{
-			pack : EN_2000_M_PACK_1,
+			pack : EN_2000_M_PACK_3,
 			group : "Shaggy",
-			song : 'Angel (ft Rayvon)',
-			year : 2001
+			song : 'Angel (ft Rayvon) (2001)'
 		},
 		{
 			pack : EN_2000_M_PACK_1,
 			group : 'Justin Timberlake',
-			song : 'Cry Me A River',
-			year : 2002
+			song : 'Cry Me A River (2002)'
 		},
 		{
 			pack : EN_2000_M_PACK_1,
@@ -460,7 +458,7 @@ let en_2000_m = [
 			pack : EN_2000_M_PACK_1,
 			group : 'Travie McCoy',
 			song : "Billionaire",
-			year : 2010
+			ignore : true
 		},
 		{
 			pack : EN_2000_M_PACK_1,
@@ -496,7 +494,7 @@ let en_2000_m = [
 			pack : EN_2000_M_PACK_1,
 			group : "Santana",
 			song : "Maria Maria (ft The Product G&B)",
-			year : 2000
+			ignore : true
 		},
 		{
 			pack : EN_2000_M_PACK_1,
@@ -505,28 +503,25 @@ let en_2000_m = [
 			year : 2002
 		},
 		{
-			pack : EN_2000_M_PACK_1,
+			pack : EN_2000_M_PACK_3,
 			group : "Shaggy",
-			song : "It Wasnt Me (ft Rik Rok)",
-			year : 2000
+			song : "It Wasnt Me (ft Rik Rok) (2000)"
 		},
 		{
-			pack : EN_2000_M_PACK_1,
+			pack : EN_2000_M_PACK_3,
 			group : "Chris Brown",
-			song : "Run It! (ft Juelz Santana)",
-			year : 2005
+			song : "Run It! (ft Juelz Santana) (2005)"
 		},
 		{
-			pack : EN_2000_M_PACK_1,
+			pack : EN_2000_M_PACK_3,
 			group : "Chris Brown",
-			song : "Kiss Kiss (ft T-Pain)",
-			year : 2007
+			song : "Kiss Kiss (ft T-Pain) (2007)"
 		},
 		{
 			pack : EN_2000_M_PACK_1,
 			group : "Bruno Mars",
 			song : "Just the Way You Are",
-			year : 2010
+			ignore : true
 		},
 		{
 			pack : EN_2000_M_PACK_1,
@@ -704,12 +699,12 @@ let en_2000_m = [
 			song : 'Replay'
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : 'Jay Sean',
 			song : 'Down'
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : 'Taio Cruz',
 			song : 'Break Your Heart'
 		},	
@@ -746,7 +741,8 @@ let en_2000_m = [
 		{
 			pack : EN_2000_M_PACK_3,
 			group : 'Pharrell Williams',
-			song : "Drop It Like It's Hot (ft Snoop Dogg)"
+			song : "Drop It Like It's Hot (ft Snoop Dogg)",
+			ignore : true
 		},
 		{
 			pack : EN_2000_M_PACK_3,
@@ -791,7 +787,8 @@ let en_2000_m = [
 		{
 			pack : EN_2000_M_PACK_3,
 			group : "Nelly",
-			song : "Grillz (ft Paul Wall, Ali & Gipp)"
+			song : "Grillz (ft Paul Wall, Ali & Gipp)",
+			ignore : true
 		},
 		{
 			pack : EN_2000_M_PACK_3,
@@ -919,19 +916,20 @@ let en_2000_m = [
 			song : "Let U Go"
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : "Jay Sean",
 			song : "Do You Remember (ft Sean Paul, Lil Jon)"
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : "Jay Sean",
 			song : "Ride It"
 		},
 		{
 			pack : EN_2000_M_PACK_3,
 			group : 'Snoop Dogg',
-			song : "Beautiful (ft Pharell Williams, Uncle Charlie Wilson)"
+			song : "Beautiful (ft Pharell Williams, Uncle Charlie Wilson)",
+			ignore : true
 		},
 		{
 			pack : EN_2000_M_PACK_3,
