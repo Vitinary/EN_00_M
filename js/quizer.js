@@ -374,7 +374,8 @@ let en_2000_m = [
 			pack : EN_2000_M_PACK_1,
 			group : "Sean Kingston",
 			song : 'Beautiful Girls',
-			year : 2007
+			year : 2007,
+			ignore : true
 		},
 		{
 			pack : EN_2000_M_PACK_1,
@@ -410,19 +411,22 @@ let en_2000_m = [
 			pack : EN_2000_M_PACK_1,
 			group : 'Robbie Williams',
 			song : 'The Road To Mandalay',
-			year : 2001
+			year : 2001,
+			ignore : true
 		},
 		{
 			pack : EN_2000_M_PACK_1,
 			group : 'Robbie Williams',
 			song : "Somethin' Stupid (ft Nicole Kidman)",
-			year : 2001
+			year : 2001,
+			ignore : true
 		},
 		{
 			pack : EN_2000_M_PACK_1,
 			group : 'Seal',
 			song : "It's A Man's Man's World",
-			year : 2008
+			year : 2008,
+			ignore : true
 		},
 		{
 			pack : EN_2000_M_PACK_1,
@@ -488,7 +492,8 @@ let en_2000_m = [
 			pack : EN_2000_M_PACK_1,
 			group : "Juanes",
 			song : "La Camisa Negra",
-			year : 2004
+			year : 2004,
+			ignore : true
 		},
 		{
 			pack : EN_2000_M_PACK_1,
@@ -500,7 +505,8 @@ let en_2000_m = [
 			pack : EN_2000_M_PACK_1,
 			group : "Santana",
 			song : "The Game of Love (ft Michelle Branch)",
-			year : 2002
+			year : 2002,
+			ignore : true
 		},
 		{
 			pack : EN_2000_M_PACK_3,
@@ -548,13 +554,15 @@ let en_2000_m = [
 			pack : EN_2000_M_PACK_1,
 			group : "Craig David",
 			song : "Rise and fall (ft Sting)",
-			year : 2003
+			year : 2003,
+			ignore : true
 		},
 		{
 			pack : EN_2000_M_PACK_1,
 			group : "Craig David",
 			song : "Insomnia",
-			year : 2008
+			year : 2008,
+			ignore : true
 		},
 		{
 			pack : EN_2000_M_PACK_1,
@@ -604,12 +612,12 @@ let en_2000_m = [
 			song : "Axel F"
 		},
 		{
-			pack : EN_2000_M_PACK_2,
+			pack : EN_2000_M_PACK_1,
 			group : "Danzel",
 			song : "Pump It Up"
 		},
 		{
-			pack : EN_2000_M_PACK_2,
+			pack : EN_2000_M_PACK_1,
 			group : "Danzel",
 			song : "Put Your Hands up in the Air!"
 		},
@@ -656,7 +664,8 @@ let en_2000_m = [
 		{
 			pack : EN_2000_M_PACK_2,
 			group : 'Dj Bobo',
-			song : 'Chihuahua'
+			song : 'Chihuahua',
+			ignore : true
 		},
 		{
 			pack : EN_2000_M_PACK_2,
@@ -664,12 +673,12 @@ let en_2000_m = [
 			song : 'Rise Up'
 		},
 		{
-			pack : EN_2000_M_PACK_2,
+			pack : EN_2000_M_PACK_3,
 			group : 'K-Maro',
 			song : "Let's go"
 		},
 		{
-			pack : EN_2000_M_PACK_2,
+			pack : EN_2000_M_PACK_3,
 			group : 'Stromae',
 			song : 'Alors On Danse'
 		},
@@ -726,12 +735,14 @@ let en_2000_m = [
 		{
 			pack : EN_2000_M_PACK_3,
 			group : 'Eminem',
-			song : 'Cleaning Out My Closet'
+			song : 'Cleaning Out My Closet',
+			ignore : true
 		},
 		{
 			pack : EN_2000_M_PACK_3,
 			group : 'Eminem',
-			song : 'Lose Yourself'
+			song : 'Lose Yourself',
+			ignore : true
 		},
 		{
 			pack : EN_2000_M_PACK_3,
@@ -757,7 +768,8 @@ let en_2000_m = [
 		{
 			pack : EN_2000_M_PACK_3,
 			group : "Eminem",
-			song : 'Smack That (ft Akon)'
+			song : 'Smack That (ft Akon)',
+			ignore : true
 		},
 		{
 			pack : EN_2000_M_PACK_3,
@@ -772,7 +784,8 @@ let en_2000_m = [
 		{
 			pack : EN_2000_M_PACK_3,
 			group : "Sean Paul",
-			song : 'Temperature'
+			song : 'Temperature',
+			ignore : true
 		},
 		{
 			pack : EN_2000_M_PACK_3,
@@ -833,12 +846,14 @@ let en_2000_m = [
 		{
 			pack : EN_2000_M_PACK_3,
 			group : "Sean Paul",
-			song : "Get Busy"
+			song : "Get Busy",
+			ignore : true
 		},
 		{
 			pack : EN_2000_M_PACK_3,
 			group : "Sean Paul",
-			song : "We Be Burnin'"
+			song : "We Be Burnin'",
+			ignore : true
 		},
 		{
 			pack : EN_2000_M_PACK_3,
@@ -853,7 +868,7 @@ let en_2000_m = [
 		{
 			pack : EN_2000_M_PACK_3,
 			group : "Pitbull",
-			song : "I Know You Want Me"
+			song : "I Know You Want Me (2009)"
 		},
 		{
 			pack : EN_2000_M_PACK_3,
@@ -873,17 +888,17 @@ let en_2000_m = [
 		{
 			pack : EN_2000_M_PACK_3,
 			group : "DMX",
-			song : "Party Up"
+			song : "Party Up (2000)"
 		},
 		{
 			pack : EN_2000_M_PACK_3,
 			group : "Lil Jon",
-			song : "Get Low (ft The East Side Boyz)"
+			song : "Get Low (ft The East Side Boyz) (2003)"
 		},
 		{
 			pack : EN_2000_M_PACK_3,
 			group : "Lil Wayne",
-			song : "Lollipop (ft Static Major)"
+			song : "Lollipop (ft Static Major) (2008)"
 		},
 		{
 			pack : EN_2000_M_PACK_2,
@@ -972,7 +987,7 @@ let en_2000_m = [
 			song : "By Your Side"
 		},
 		{
-			pack : EN_2000_M_PACK_2,
+			pack : EN_2000_M_PACK_1,
 			group : 'Lexter',
 			song : "Freedom to Love"
 		},
@@ -980,6 +995,96 @@ let en_2000_m = [
 			pack : EN_2000_M_PACK_2,
 			group : 'Paul Van Dyk',
 			song : "Nothing But You"
+		},
+		{
+			pack : EN_2000_M_PACK_1,
+			group : 'Danny Saucedo',
+			song : "Tokyo (2007)"
+		},
+		{
+			pack : EN_2000_M_PACK_1,
+			group : 'Danny Saucedo',
+			song : "Play It for the Girls (2007)"
+		},
+		{
+			pack : EN_2000_M_PACK_1,
+			group : 'Danny Saucedo',
+			song : "If Only You (ft Therese Grankvist) (2007)"
+		},
+		{
+			pack : EN_2000_M_PACK_2,
+			group : 'Erick E',
+			song : "The beat is rockin' (2006)"
+		},
+		{
+			pack : EN_2000_M_PACK_3,
+			group : "DMX",
+			song : "Where the Hood At (2003)"
+		},
+		{
+			pack : EN_2000_M_PACK_3,
+			group : "DMX",
+			song : "X Gon' Give It To Ya (2003)"
+		},
+		{
+			pack : EN_2000_M_PACK_3,
+			group : "Lil Jon",
+			song : "Lovers and Friends (ft The East Side Boyz, Usher, Ludacris) (2004)"
+		},
+		{
+			pack : EN_2000_M_PACK_3,
+			group : "Lil Jon",
+			song : "Snap Yo Fingers (ft E-40 and Sean P) (2006)"
+		},
+		{
+			pack : EN_2000_M_PACK_3,
+			group : "Lil Wayne",
+			song : "A Milli (2008)"
+		},
+		{
+			pack : EN_2000_M_PACK_3,
+			group : "Lil Wayne",
+			song : "Fireman (2005)"
+		},
+		{
+			pack : EN_2000_M_PACK_3,
+			group : "Ludacris",
+			song : "Act a Fool (2003)"
+		},
+		{
+			pack : EN_2000_M_PACK_3,
+			group : "Ludacris",
+			song : "How Low (2009)"
+		},
+		{
+			pack : EN_2000_M_PACK_3,
+			group : "Ludacris",
+			song : "Rollout (My Business) (2001)"
+		},
+		{
+			pack : EN_2000_M_PACK_3,
+			group : "Pitbull",
+			song : "Hotel Room Service (2009)"
+		},
+		{
+			pack : EN_2000_M_PACK_3,
+			group : "Pitbull",
+			song : "Shut It Down (ft Akon) (2009)"
+		},
+		{
+			pack : EN_2000_M_PACK_3,
+			group : "P. Diddy",
+			song : "Come To Me (ft Nicole Scherzinger) (2006)"
+		},
+		{
+			pack : EN_2000_M_PACK_3,
+			group : "P. Diddy",
+			song : "Tell Me (ft Christina Aguilera) (2006)"
+		},
+		{
+			pack : EN_2000_M_PACK_3,
+			group : "P. Diddy",
+			song : "Shake Ya Tailfeather (ft Nelly, Murphy Lee) (2003)"
 		}
 ];
 
