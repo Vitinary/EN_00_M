@@ -673,7 +673,7 @@ let en_2000_m = [
 			song : 'Rise Up'
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : 'K-Maro',
 			song : "Let's go"
 		},
@@ -698,7 +698,7 @@ let en_2000_m = [
 			song : "Day 'N' Nite"
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : 'Jamie Foxx',
 			song : 'Blame It'
 		},
