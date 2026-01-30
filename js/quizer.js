@@ -346,12 +346,14 @@ function load(){
 const en_2000_m_icon = [
 	'pop',
 	'dj',
-	'rap'
+	'rap',
+	'pop_2'
 ];
 
 const EN_2000_M_PACK_1 = 1;
 const EN_2000_M_PACK_2 = 2;
 const EN_2000_M_PACK_3 = 3;
+const EN_2000_M_PACK_4 = 4;
 
 let en_2000_m = [
 		{
@@ -392,7 +394,7 @@ let en_2000_m = [
 			ignore : true
 		},
 		{
-			pack : EN_2000_M_PACK_1,
+			pack : EN_2000_M_PACK_4,
 			group : "Jason Mraz",
 			song : "I'm Yours",
 			year : 2008
@@ -452,13 +454,13 @@ let en_2000_m = [
 			ignore : true
 		},
 		{
-			pack : EN_2000_M_PACK_1,
+			pack : EN_2000_M_PACK_4,
 			group : 'Ronan Keating',
 			song : 'If Tomorrow Never Comes',
 			year : 2002
 		},
 		{
-			pack : EN_2000_M_PACK_1,
+			pack : EN_2000_M_PACK_4,
 			group : 'Lemar',
 			song : "If There's Any Justice",
 			year : 2005
@@ -582,7 +584,7 @@ let en_2000_m = [
 			year : 2000
 		},
 		{
-			pack : EN_2000_M_PACK_2,
+			pack : EN_2000_M_PACK_4,
 			group : "Tom Novy",
 			song : "Take it (ft Lima)",
 			year : 2006
@@ -607,7 +609,7 @@ let en_2000_m = [
 			ignore : true
 		},
 		{
-			pack : EN_2000_M_PACK_2,
+			pack : EN_2000_M_PACK_4,
 			group : "Timo Maas",
 			song : "First Day (ft Brian Molko)",
 			year : 2005
@@ -638,7 +640,8 @@ let en_2000_m = [
 		{
 			pack : EN_2000_M_PACK_2,
 			group : "Gigi D'Agostino",
-			song : "L'Amour Toujours"
+			song : "L'Amour Toujours (1999)",
+			ignore : true
 		},
 		{
 			pack : EN_2000_M_PACK_2,
@@ -667,9 +670,9 @@ let en_2000_m = [
 			song : 'Love is gone'
 		},
 		{
-			pack : EN_2000_M_PACK_2,
+			pack : EN_2000_M_PACK_4,
 			group : 'Alex Gaudino',
-			song : 'Destination Calabria (ft Crystal Waters)'
+			song : 'Destination Calabria (ft Crystal Waters) (2007)'
 		},
 		{
 			pack : EN_2000_M_PACK_2,
@@ -678,9 +681,9 @@ let en_2000_m = [
 			ignore : true
 		},
 		{
-			pack : EN_2000_M_PACK_2,
+			pack : EN_2000_M_PACK_4,
 			group : 'Yves Larock',
-			song : 'Rise Up'
+			song : 'Rise Up (2007)'
 		},
 		{
 			pack : EN_2000_M_PACK_1,
@@ -706,12 +709,12 @@ let en_2000_m = [
 			song : 'Right Round'
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_4,
 			group : 'Kid Cudi',
 			song : "Day 'N' Nite"
 		},
 		{
-			pack : EN_2000_M_PACK_1,
+			pack : EN_2000_M_PACK_4,
 			group : 'Jamie Foxx',
 			song : 'Blame It'
 		},
@@ -727,7 +730,7 @@ let en_2000_m = [
 			song : 'Down'
 		},
 		{
-			pack : EN_2000_M_PACK_1,
+			pack : EN_2000_M_PACK_4,
 			group : 'Taio Cruz',
 			song : 'Break Your Heart'
 		},	
@@ -894,14 +897,15 @@ let en_2000_m = [
 			song : "Gold Digger (ft Jamie Foxx)"
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_4,
 			group : "TI",
-			song : "Whatever You Like"
+			song : "Whatever You Like (2008)"
 		},
 		{
 			pack : EN_2000_M_PACK_3,
 			group : "TI",
-			song : "Live Your Life (ft Rihanna)"
+			song : "Live Your Life (ft Rihanna)",
+			ignore : true
 		},
 		{
 			pack : EN_2000_M_PACK_3,
@@ -987,7 +991,7 @@ let en_2000_m = [
 		{
 			pack : EN_2000_M_PACK_2,
 			group : 'Calvin Harris',
-			song : "Acceptable in the 80s"
+			song : "Acceptable in the 80s (2007)"
 		},
 		{
 			pack : EN_2000_M_PACK_2,
@@ -995,19 +999,20 @@ let en_2000_m = [
 			song : "The Girls"
 		},
 		{
-			pack : EN_2000_M_PACK_2,
+			pack : EN_2000_M_PACK_4,
 			group : 'Panjabi MC',
 			song : "Mundian to Bach Ke"
 		},
 		{
 			pack : EN_2000_M_PACK_2,
 			group : 'Yves Larock',
-			song : "By Your Side"
+			song : "By Your Side",
+			ignore : true
 		},
 		{
-			pack : EN_2000_M_PACK_1,
+			pack : EN_2000_M_PACK_4,
 			group : 'Lexter',
-			song : "Freedom to Love"
+			song : "Freedom to Love (2008)"
 		},
 		{
 			pack : EN_2000_M_PACK_2,
@@ -1027,10 +1032,11 @@ let en_2000_m = [
 		{
 			pack : EN_2000_M_PACK_1,
 			group : 'Danny Saucedo',
-			song : "If Only You (ft Therese Grankvist) (2007)"
+			song : "If Only You (ft Therese Grankvist) (2007)",
+			ignore : true
 		},
 		{
-			pack : EN_2000_M_PACK_2,
+			pack : EN_2000_M_PACK_4,
 			group : 'Erick E',
 			song : "The beat is rockin' (2006)"
 		},
@@ -1114,6 +1120,7 @@ let en_2000_m = [
 let en_2000_m_1 =	en_2000_m.filter(item => item.pack == 1);
 let en_2000_m_2 =	en_2000_m.filter(item => item.pack == 2);
 let en_2000_m_3 =	en_2000_m.filter(item => item.pack == 3);
+let en_2000_m_4 =	en_2000_m.filter(item => item.pack == 4);
 
 let music = [
 	{
@@ -1124,15 +1131,19 @@ let music = [
 		packs: [
 				{
 					arr: en_2000_m_1,
-					name: 'EN 2000s Male: Pop',
+					name: 'EN 2000s Male: Pop'
 				},
 				{
 					arr: en_2000_m_2,
-					name: 'EN 2000s Male: Dj',
+					name: 'EN 2000s Male: Dj'
 				},
 				{
 					arr: en_2000_m_3,
-					name: 'EN 2000s Male: Rap',
+					name: 'EN 2000s Male: Rap'
+				},
+				{
+					arr: en_2000_m_4,
+					name: 'EN 2000s Male: One Hit Wonders'
 				}
 			]
 	}
