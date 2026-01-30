@@ -575,13 +575,15 @@ let en_2000_m = [
 			pack : EN_2000_M_PACK_1,
 			group : "Tomas Nevergreen",
 			song : "Since You Been Gone",
-			year : 2003
+			year : 2003,
+			ignore : true
 		},
 		{
 			pack : EN_2000_M_PACK_1,
 			group : "Tomas Nevergreen",
 			song : "Every Time",
-			year : 2000
+			year : 2000,
+			ignore : true
 		},
 		{
 			pack : EN_2000_M_PACK_4,
@@ -1157,6 +1159,7 @@ function map_songs(){
 	$('#mirror').hide();
 	$('#map').hide();
 	$('#package_content').hide();
+	$('#sec_15').show();
 	$('#mapping_content').show();
 	toggleLearn();
 	for(var j=0; j < music.length; j++){
