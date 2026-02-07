@@ -1116,6 +1116,21 @@ let en_2000_m = [
 			pack : EN_2000_M_PACK_2,
 			group : "Armin van Buuren",
 			song : "Love You More (2006)"
+		},
+		{
+			pack : EN_2000_M_PACK_3,
+			group : "T-Pain",
+			song : "I'm Sprung (2005)"
+		},
+		{
+			pack : EN_2000_M_PACK_4,
+			group : "Mario",
+			song : "Let Me Love You (2004)"
+		},
+		{
+			pack : EN_2000_M_PACK_2,
+			group : "Antoine Clamaran",
+			song : "Gold (2009)"
 		}
 ];
 
@@ -1159,7 +1174,7 @@ function map_songs(){
 	$('#mirror').hide();
 	$('#map').hide();
 	$('#package_content').hide();
-	$('#sec_15').show();
+	$('#sec_15_hist').show();
 	$('#mapping_content').show();
 	toggleLearn();
 	for(var j=0; j < music.length; j++){
@@ -1498,6 +1513,15 @@ function back_to_browser(){
 function back_to_current_pack(){
 	back = back_to_browser;
 	$('#mapping_content').hide();
+	$('#sec_15_hist').hide();
+	song_stop();
 	$('#map').show();
 	package_num(pack_num);
+}
+
+function song_stop() {
+	if(audio){
+		audio.pause();
+		audio = null;
+	}
 }
