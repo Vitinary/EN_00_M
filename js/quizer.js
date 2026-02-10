@@ -1131,6 +1131,11 @@ let en_2000_m = [
 			pack : EN_2000_M_PACK_2,
 			group : "Antoine Clamaran",
 			song : "Gold (2009)"
+		},
+		{
+			pack : EN_2000_M_PACK_4,
+			group : "J-Five",
+			song : "Find a Way (2004)"
 		}
 ];
 
