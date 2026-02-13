@@ -1136,6 +1136,16 @@ let en_2000_m = [
 			pack : EN_2000_M_PACK_4,
 			group : "J-Five",
 			song : "Find a Way (2004)"
+		},
+		{
+			pack : EN_2000_M_PACK_2,
+			group : "Serge Devant",
+			song : "Addicted (ft Hadley) (2009)"
+		},
+		{
+			pack : EN_2000_M_PACK_1,
+			group : "Johnny Cash",
+			song : "Hurt (2003)"
 		}
 ];
 
