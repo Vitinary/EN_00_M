@@ -1055,7 +1055,8 @@ let en_2000_m = [
 		{
 			pack : EN_2000_M_PACK_3,
 			group : "Lil Jon",
-			song : "Lovers and Friends (ft The East Side Boyz, Usher, Ludacris) (2004)"
+			song : "Lovers and Friends (ft The East Side Boyz, Usher, Ludacris) (2004)",
+			ignore : true
 		},
 		{
 			pack : EN_2000_M_PACK_3,
