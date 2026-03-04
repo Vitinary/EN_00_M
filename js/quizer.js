@@ -1111,7 +1111,8 @@ let en_2000_m = [
 		{
 			pack : EN_2000_M_PACK_3,
 			group : "P. Diddy",
-			song : "Shake Ya Tailfeather (ft Nelly, Murphy Lee) (2003)"
+			song : "Shake Ya Tailfeather (ft Nelly, Murphy Lee) (2003)",
+			ignore : true
 		},
 		{
 			pack : EN_2000_M_PACK_2,
