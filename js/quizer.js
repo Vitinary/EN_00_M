@@ -370,7 +370,8 @@ let en_2000_m = [
 		{
 			pack : EN_2000_M_PACK_1,
 			group : 'Justin Timberlake',
-			song : 'Cry Me A River (2002)'
+			song : 'Cry Me A River (2002)',
+			ignore : true
 		},
 		{
 			pack : EN_2000_M_PACK_1,
@@ -403,13 +404,15 @@ let en_2000_m = [
 			pack : EN_2000_M_PACK_1,
 			group : 'Justin Timberlake',
 			song : 'Sexy back (ft Timbaland)',
-			year : 2006
+			year : 2006,
+			ignore : true
 		},
 		{
 			pack : EN_2000_M_PACK_1,
 			group : 'Justin Timberlake',
 			song : 'My Love (ft TI)',
-			year : 2006
+			year : 2006,
+			ignore : true
 		},
 		{
 			pack : EN_2000_M_PACK_1,
@@ -456,14 +459,12 @@ let en_2000_m = [
 		{
 			pack : EN_2000_M_PACK_4,
 			group : 'Ronan Keating',
-			song : 'If Tomorrow Never Comes',
-			year : 2002
+			song : 'If Tomorrow Never Comes (2002)'
 		},
 		{
 			pack : EN_2000_M_PACK_4,
 			group : 'Lemar',
-			song : "If There's Any Justice",
-			year : 2005
+			song : "If There's Any Justice (2005)"
 		},
 		{
 			pack : EN_2000_M_PACK_1,
@@ -474,26 +475,22 @@ let en_2000_m = [
 		{
 			pack : EN_2000_M_PACK_1,
 			group : 'Ne-Yo',
-			song : "So Sick",
-			year : 2006
+			song : "So Sick (2006)"
 		},
 		{
 			pack : EN_2000_M_PACK_1,
 			group : 'Ne-Yo',
-			song : "Closer",
-			year : 2008
+			song : "Closer (2008)"
 		},
 		{
 			pack : EN_2000_M_PACK_1,
 			group : 'Adam Lambert',
-			song : "For your entertainment",
-			year : 2009
+			song : "For your entertainment (2009)"
 		},
 		{
 			pack : EN_2000_M_PACK_1,
 			group : 'Adam Lambert',
-			song : "Whataya Want from Me",
-			year : 2009
+			song : "Whataya Want from Me (2009)"
 		},
 		{
 			pack : EN_2000_M_PACK_1,
@@ -927,17 +924,20 @@ let en_2000_m = [
 		{
 			pack : EN_2000_M_PACK_2,
 			group : "Fatboy Slim",
-			song : "Star 69"
+			song : "Star 69",
+			ignore : true
 		},
 		{
 			pack : EN_2000_M_PACK_2,
 			group : "Fatboy Slim",
-			song : "Weapon Of Choice"
+			song : "Weapon Of Choice",
+			ignore : true
 		},
 		{
 			pack : EN_2000_M_PACK_2,
 			group : "Fatboy Slim",
-			song : "Slash Dot Dash"
+			song : "Slash Dot Dash",
+			ignore : true
 		},
 		{
 			pack : EN_2000_M_PACK_2,
@@ -957,7 +957,8 @@ let en_2000_m = [
 		{
 			pack : EN_2000_M_PACK_1,
 			group : "Jay Sean",
-			song : "Do You Remember (ft Sean Paul, Lil Jon)"
+			song : "Do You Remember (ft Sean Paul, Lil Jon)",
+			ignore : true
 		},
 		{
 			pack : EN_2000_M_PACK_1,
