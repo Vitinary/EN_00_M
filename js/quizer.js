@@ -397,8 +397,7 @@ let en_2000_m = [
 		{
 			pack : EN_2000_M_PACK_4,
 			group : "Jason Mraz",
-			song : "I'm Yours",
-			year : 2008
+			song : "I'm Yours (2008)"
 		},
 		{
 			pack : EN_2000_M_PACK_1,
@@ -1149,6 +1148,11 @@ let en_2000_m = [
 			pack : EN_2000_M_PACK_1,
 			group : "Johnny Cash",
 			song : "Hurt (2003)"
+		},
+		{
+			pack : EN_2000_M_PACK_4,
+			group : "Soulja Boy",
+			song : "Crank That (Soulja Boy) (2007)"
 		}
 ];
 
