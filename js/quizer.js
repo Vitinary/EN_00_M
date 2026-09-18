@@ -374,11 +374,9 @@ let en_2000_m = [
 			ignore : true
 		},
 		{
-			pack : EN_2000_M_PACK_1,
+			pack : EN_2000_M_PACK_4,
 			group : "Sean Kingston",
-			song : 'Beautiful Girls',
-			year : 2007,
-			ignore : true
+			song : 'Beautiful Girls (2007)'
 		},
 		{
 			pack : EN_2000_M_PACK_1,
@@ -719,7 +717,7 @@ let en_2000_m = [
 		{
 			pack : EN_2000_M_PACK_3,
 			group : 'Iyaz',
-			song : 'Replay',
+			song : 'Replay (2010)',
 			ignore : true
 		},
 		{
@@ -895,7 +893,7 @@ let en_2000_m = [
 			song : "Gold Digger (ft Jamie Foxx)"
 		},
 		{
-			pack : EN_2000_M_PACK_4,
+			pack : EN_2000_M_PACK_1,
 			group : "TI",
 			song : "Whatever You Like (2008)"
 		},
@@ -1153,6 +1151,11 @@ let en_2000_m = [
 			pack : EN_2000_M_PACK_4,
 			group : "Soulja Boy",
 			song : "Crank That (Soulja Boy) (2007)"
+		},
+		{
+			pack : EN_2000_M_PACK_1,
+			group : 'Michael Bublé',
+			song : "Haven't Met You Yet (2009)"
 		}
 ];
 
