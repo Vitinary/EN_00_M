@@ -1037,7 +1037,7 @@ let en_2000_m = [
 		},
 		{
 			pack : EN_2000_M_PACK_4,
-			group : 'Erick E',
+			group : 'Erick E (Dj)',
 			song : "The beat is rockin' (2006)"
 		},
 		{
