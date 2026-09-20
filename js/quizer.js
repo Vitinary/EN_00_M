@@ -1156,6 +1156,11 @@ let en_2000_m = [
 			pack : EN_2000_M_PACK_4,
 			group : 'Michael Bublé',
 			song : "Haven't Met You Yet (2009)"
+		},
+		{
+			pack : EN_2000_M_PACK_4,
+			group : 'Kristian Leontiou',
+			song : "Story of My Life (2004)"
 		}
 ];
 
