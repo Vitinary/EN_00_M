@@ -346,7 +346,6 @@ function load(){
 const en_2000_m_icon = [
 	'pop',
 	'dj',
-	'rap',
 	'pop_2'
 ];
 
@@ -363,7 +362,7 @@ let en_2000_m = [
 			ignore : true
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : "Shaggy",
 			song : 'Angel (ft Rayvon) (2001)'
 		},
@@ -510,17 +509,17 @@ let en_2000_m = [
 			ignore : true
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : "Shaggy",
 			song : "It Wasnt Me (ft Rik Rok) (2000)"
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : "Chris Brown",
 			song : "Run It! (ft Juelz Santana) (2005)"
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : "Chris Brown",
 			song : "Kiss Kiss (ft T-Pain) (2007)"
 		},
@@ -700,19 +699,19 @@ let en_2000_m = [
 			ignore : true
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : 'Flo Rida',
-			song : 'Right Round'
+			song : 'Right Round (2009)'
 		},
 		{
 			pack : EN_2000_M_PACK_4,
 			group : 'Kid Cudi',
-			song : "Day 'N' Nite"
+			song : "Day 'N' Nite (2008)"
 		},
 		{
 			pack : EN_2000_M_PACK_4,
 			group : 'Jamie Foxx',
-			song : 'Blame It'
+			song : 'Blame It (2008)'
 		},
 		{
 			pack : EN_2000_M_PACK_3,
@@ -723,27 +722,27 @@ let en_2000_m = [
 		{
 			pack : EN_2000_M_PACK_1,
 			group : 'Jay Sean',
-			song : 'Down'
+			song : 'Down (2009)'
 		},
 		{
 			pack : EN_2000_M_PACK_4,
 			group : 'Taio Cruz',
-			song : 'Break Your Heart'
+			song : 'Break Your Heart (2009)'
 		},	
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : 'Snoop Dogg',
-			song : 'The Next Episode (ft Dr. Dre)'
+			song : 'The Next Episode (ft Dr. Dre) (2000)'
 		},	
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : 'Nelly',
-			song : 'Ride With Me'
+			song : 'Ride With Me (2000)'
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : 'Nelly',
-			song : 'Hot In Herre'
+			song : 'Hot In Herre (2002)'
 		},
 		{
 			pack : EN_2000_M_PACK_3,
@@ -776,9 +775,9 @@ let en_2000_m = [
 			ignore : true
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : "Timbaland",
-			song : 'Promiscuous (ft Nelly Furtado)'
+			song : 'Promiscuous (ft Nelly Furtado) (2006)'
 		},
 		{
 			pack : EN_2000_M_PACK_3,
@@ -787,14 +786,14 @@ let en_2000_m = [
 			ignore : true
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : "Kanye West",
-			song : "Stronger"
+			song : "Stronger (2007)"
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : 'Usher',
-			song : 'Yeah!'
+			song : 'Yeah! (2004)'
 		},
 		{
 			pack : EN_2000_M_PACK_3,
@@ -821,42 +820,42 @@ let en_2000_m = [
 			ignore : true
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : "Akon",
 			song : "Don't Matter"
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : "Akon",
 			song : "Right Now (Na Na Na)"
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : "Akon",
 			song : "Lonely"
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : "Jay-Z",
 			song : "Empire State Of Mind (ft Alicia Keys)"
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : "Jay-Z",
 			song : "99 Problems"
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : "Usher",
 			song : "U Remind Me"
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : "Usher",
 			song : "U Got It Bad"
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : "Flo Rida",
 			song : "Low"
 		},
@@ -873,22 +872,22 @@ let en_2000_m = [
 			ignore : true
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : "Timbaland",
 			song : "The Way I Are (ft Keri Hilson, D.O.E.)"
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : "Timbaland",
 			song : "Give It To Me (ft Justin Timberlake, Nelly Furtado)"
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : "Pitbull",
 			song : "I Know You Want Me (2009)"
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : "Kanye West",
 			song : "Gold Digger (ft Jamie Foxx)"
 		},
@@ -904,17 +903,17 @@ let en_2000_m = [
 			ignore : true
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : "DMX",
 			song : "Party Up (2000)"
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : "Lil Jon",
 			song : "Get Low (ft The East Side Boyz) (2003)"
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : "Lil Wayne",
 			song : "Lollipop (ft Static Major) (2008)"
 		},
@@ -939,17 +938,17 @@ let en_2000_m = [
 		{
 			pack : EN_2000_M_PACK_2,
 			group : "ATB",
-			song : "The Summer"
+			song : "The Summer (2000)"
 		},
 		{
 			pack : EN_2000_M_PACK_2,
 			group : "ATB",
-			song : "Ecstasy"
+			song : "Ecstasy (2004)"
 		},
 		{
 			pack : EN_2000_M_PACK_2,
 			group : "ATB",
-			song : "Let U Go"
+			song : "Let U Go (2001)"
 		},
 		{
 			pack : EN_2000_M_PACK_1,
@@ -960,7 +959,7 @@ let en_2000_m = [
 		{
 			pack : EN_2000_M_PACK_1,
 			group : "Jay Sean",
-			song : "Ride It"
+			song : "Ride It (2008)"
 		},
 		{
 			pack : EN_2000_M_PACK_3,
@@ -969,24 +968,24 @@ let en_2000_m = [
 			ignore : true
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : 'Snoop Dogg',
-			song : "Sexual Eruption"
+			song : "Sexual Eruption (2007)"
 		},
 		{
 			pack : EN_2000_M_PACK_2,
 			group : 'Pakito',
-			song : "Living on Video"
+			song : "Living on Video (2006)"
 		},
 		{
 			pack : EN_2000_M_PACK_2,
 			group : 'Pakito',
-			song : "Moving on Stereo"
+			song : "Moving on Stereo (2006)"
 		},
 		{
 			pack : EN_2000_M_PACK_2,
 			group : 'Pakito',
-			song : "Are You Ready"
+			song : "Are You Ready (2006)"
 		},
 		{
 			pack : EN_2000_M_PACK_2,
@@ -996,12 +995,12 @@ let en_2000_m = [
 		{
 			pack : EN_2000_M_PACK_2,
 			group : 'Calvin Harris',
-			song : "The Girls"
+			song : "The Girls (2007)"
 		},
 		{
 			pack : EN_2000_M_PACK_4,
 			group : 'Panjabi MC',
-			song : "Mundian to Bach Ke"
+			song : "Mundian to Bach Ke (2002)"
 		},
 		{
 			pack : EN_2000_M_PACK_2,
@@ -1017,7 +1016,7 @@ let en_2000_m = [
 		{
 			pack : EN_2000_M_PACK_2,
 			group : 'Paul Van Dyk',
-			song : "Nothing But You"
+			song : "Nothing But You (2003)"
 		},
 		{
 			pack : EN_2000_M_PACK_1,
@@ -1041,12 +1040,12 @@ let en_2000_m = [
 			song : "The beat is rockin' (2006)"
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : "DMX",
 			song : "Where the Hood At (2003)"
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : "DMX",
 			song : "X Gon' Give It To Ya (2003)"
 		},
@@ -1057,52 +1056,52 @@ let en_2000_m = [
 			ignore : true
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : "Lil Jon",
 			song : "Snap Yo Fingers (ft E-40 and Sean P) (2006)"
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : "Lil Wayne",
 			song : "A Milli (2008)"
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : "Lil Wayne",
 			song : "Fireman (2005)"
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : "Ludacris",
 			song : "Act a Fool (2003)"
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : "Ludacris",
 			song : "How Low (2009)"
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : "Ludacris",
 			song : "Rollout (My Business) (2001)"
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : "Pitbull",
 			song : "Hotel Room Service (2009)"
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : "Pitbull",
 			song : "Shut It Down (ft Akon) (2009)"
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : "P. Diddy",
 			song : "Come To Me (ft Nicole Scherzinger) (2006)"
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : "P. Diddy",
 			song : "Tell Me (ft Christina Aguilera) (2006)"
 		},
@@ -1118,7 +1117,7 @@ let en_2000_m = [
 			song : "Love You More (2006)"
 		},
 		{
-			pack : EN_2000_M_PACK_3,
+			pack : EN_2000_M_PACK_1,
 			group : "T-Pain",
 			song : "I'm Sprung (2005)"
 		},
@@ -1183,10 +1182,6 @@ let music = [
 				{
 					arr: en_2000_m_2,
 					name: 'EN 2000s Male: Dj'
-				},
-				{
-					arr: en_2000_m_3,
-					name: 'EN 2000s Male: Rap'
 				},
 				{
 					arr: en_2000_m_4,
