@@ -629,8 +629,8 @@ let en_2000_m = [
 		},
 		{
 			pack : EN_2000_M_PACK_2,
-			group : "Eric Prydz",
-			song : "Call on Me"
+			group : "Eric Prydz (Dj)",
+			song : "Call on Me (2004)"
 		},
 		{
 			pack : EN_2000_M_PACK_2,
@@ -1127,8 +1127,8 @@ let en_2000_m = [
 			song : "Let Me Love You (2004)"
 		},
 		{
-			pack : EN_2000_M_PACK_2,
-			group : "Antoine Clamaran",
+			pack : EN_2000_M_PACK_4,
+			group : "Antoine Clamaran (Dj)",
 			song : "Gold (2009)"
 		},
 		{
@@ -1137,8 +1137,8 @@ let en_2000_m = [
 			song : "Find a Way (2004)"
 		},
 		{
-			pack : EN_2000_M_PACK_2,
-			group : "Serge Devant",
+			pack : EN_2000_M_PACK_4,
+			group : "Serge Devant (Dj)",
 			song : "Addicted (ft Hadley) (2009)"
 		},
 		{
@@ -1160,6 +1160,21 @@ let en_2000_m = [
 			pack : EN_2000_M_PACK_4,
 			group : 'Kristian Leontiou',
 			song : "Story of My Life (2004)"
+		},
+		{
+			pack : EN_2000_M_PACK_4,
+			group : "Laurent Wolf (Dj)",
+			song : "No Stress (ft Eric Carter) (2008)"
+		},
+		{
+			pack : EN_2000_M_PACK_4,
+			group : "Afroman",
+			song : "Because I Got High (2001)"
+		},
+		{
+			pack : EN_2000_M_PACK_4,
+			group : "Ian Carey (Dj)",
+			song : "Keep On Rising (ft Michelle Shellers) (2007)"
 		}
 ];
 
